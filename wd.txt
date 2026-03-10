@@ -1,0 +1,6 @@
+index.html
+  logo_200x200.png
+  studio_exterior.png
+  start_your_journey.png
+  journey_action.png
+  journey_reward.png
